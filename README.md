@@ -1,19 +1,3 @@
-Task 1(Cis cat accessor)
-
-![initial assessment ](https://github.com/user-attachments/assets/9d28c329-602d-4344-aa6b-14f0c3a35ccd)
-![follow up assessment ](https://github.com/user-attachments/assets/b0ad8fc1-f85b-4171-a980-9b3ca858a6b0)
-![image](https://github.com/user-attachments/assets/340d6dc2-c88f-4d3a-a8b3-d20e492fedee)
-
-Task 2(Web goat)
-
-![image](https://github.com/user-attachments/assets/184b8549-3f6c-4c62-b1e6-aed75d23b23e)
-
- Task 3( linked in management)
- 
- ![image](https://github.com/user-attachments/assets/46b2887f-77f7-46ec-be43-46de57466245)
-
-
-
 <h1 align="center">🔐 RedUser Cybersecurity Internship Project</h1>
 
 <p align="center">
@@ -23,7 +7,7 @@ Task 2(Web goat)
 </p>
 
 <p align="center">
-  <img src="https://s1.ezgif.com/tmp/ezgif-15f8a7e51ada2b.gif" width="250" alt="Cybersecurity GIF"/>
+  <img src="https://assets-v2.lottiefiles.com/a/f1e1a7d0-1d3d-11ee-91c5-27c399cace92/GFI1KJwTVS.gif" width="600" alt="Cybersecurity GIF"/>
 </p>
 
 ---
@@ -67,6 +51,8 @@ Task 2(Web goat)
 
 ## 🛡️ Task 1: System Benchmarking with CIS-CAT
 
+![image](https://github.com/user-attachments/assets/340d6dc2-c88f-4d3a-a8b3-d20e492fedee)
+
 ### 🧰 Tool: CIS-CAT Pro Assessor  
 - 🔍 Audited a local system for compliance issues  
 - 📊 Before & after benchmark comparisons  
@@ -84,6 +70,9 @@ Task 2(Web goat)
 
 ## 🐍 Task 2: Vulnerability Analysis with OWASP WebGoat
 
+![image](https://github.com/user-attachments/assets/184b8549-3f6c-4c62-b1e6-aed75d23b23e)
+
+
 ### 🔐 Focused On:
 - 🐞 SQL Injection  
 - 🧨 Cross-Site Scripting (XSS)  
@@ -97,6 +86,10 @@ Task 2(Web goat)
 
 
 ## 🌐 Task 3: Cybersecurity Awareness via LinkedIn
+
+ ![image](https://github.com/user-attachments/assets/46b2887f-77f7-46ec-be43-46de57466245)
+
+
 
 ### 💡 Goals:
 - 🔊 Promote security literacy  
@@ -139,5 +132,5 @@ Task 2(Web goat)
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="220"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/15895598779823.5ee3cd3210c15.gif" width="220"/>
 </p>
